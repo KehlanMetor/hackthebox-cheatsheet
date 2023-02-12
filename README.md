@@ -16,7 +16,7 @@
 | Dev Stuff                                                                             | Courses   |    Hosting    | Level            | Tools |
 |---------------------------------------------------------------------------------------|-----------|---------------|------------------|-------|
 | [FreeDevStuff](https://freestuff.dev/)                                                |   ✅      |     🔄          |    Beginner     |   ✅    |
-| [Find Dev Tools](https://finddev.tools/))                                             |   ✅      |     🔄        |    Intermediate |   ✅    |
+| [Find Dev Tools](https://finddev.tools/)                                             |   ✅      |     🔄        |    Intermediate |   ✅    |
 | [Kali Tools](https://www.kali.org/docs/)                                              |   ✅      |     ❌        |   Intermediate  |  ✅     |
 | [Free For Dev](https://free-for.dev/)                                                 |   ✅      |     🔄         |    Beginner     |   ✅     |
 
