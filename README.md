@@ -4,14 +4,14 @@
 
 | Links                                                                                 | From      |    Challs/CTF | Machines |
 |---------------------------------------------------------------------------------------|-----------|---------------|----------|
-| learning                                                                              | ✅        |               |
-| Open Source Intelligence                                                              | ✅         ||
-| Multi tools                                                                           | ✅         ||
-| Compatible Windows, MacOS and Linux OSes                                              | ✅         ||
-| Open source                                                                           | 🔄         ||
-| For Beginners, advanced and experts                                                   | ✅(depends)||
-| Paid Tools                                                                            | 🔄         ||
-| Pentest Tools                                                                         | 🔄         ||
+| [Hacking Articles](https://www.hackingarticles.in)                                    | ✅        |               |
+| Open Source Intelligence                                                              | ✅         |              |
+| Multi tools                                                                           | ✅         |              |
+| Compatible Windows, MacOS and Linux OSes                                              | ✅         |              |
+| Open source                                                                           | 🔄         |              |
+| For Beginners, advanced and experts                                                   | ✅(depends)|              |
+| Paid Tools                                                                            | 🔄         |              |
+| Pentest Tools                                                                         | 🔄         |              |
 
 - ✅ = `Integrated`
 - ❌ = `Not Integrated`
