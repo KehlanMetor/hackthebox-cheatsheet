@@ -10,6 +10,7 @@
 | [Hackthebox Writeups](https://github.com/Hackplayers/hackthebox-writeups)             | ✅         |              ||
 | [HTB CTF Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)     | 🔄         |              ||
 | [HackTrickz](https://book.hacktricks.xyz/welcome/readme)                              | ✅(depends)|              ||
+
 | Dev Stuff                                                                             | From      |    Challs/CTF | Machines | Tools |
 |---------------------------------------------------------------------------------------|-----------|---------------|----------|-------|
 
