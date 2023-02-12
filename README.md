@@ -2,6 +2,7 @@
 
 > 🚧 **This project can be updated!** 🚧 Use it anyway I already put enough :)
 
+## HacktheBox Cheatsheet / Notes
 | Links                                                                                 | From      |    Challs/CTF | Machines | Tools |
 |---------------------------------------------------------------------------------------|-----------|---------------|----------|-------|
 | [Hacking Articles](https://www.hackingarticles.in)                                    | Web        |   ✅           |    ✅      | 🔄
@@ -11,6 +12,7 @@
 | [HTB CTF Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)     | Github         |  ✅            |  ✅        | ❌
 | [HackTrickz](https://book.hacktricks.xyz/welcome/readme)                              | Web | ✅             |          |  ❌ | ✅
 
+## All Tools
 | Dev Stuff                                                                             | Courses   |    Hosting    | Level            | Tools |
 |---------------------------------------------------------------------------------------|-----------|---------------|------------------|-------|
 | [FreeDevStuff](https://freestuff.dev/)                                                |   ✅      |     🔄          |    Beginner     |   ✅    |
