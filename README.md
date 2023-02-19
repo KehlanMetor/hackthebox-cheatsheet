@@ -20,6 +20,7 @@
 | [Kali Tools](https://www.kali.org/docs/)                                              |   ✅      |     ❌        |   Intermediate  |  ✅     |
 | [Free For Dev](https://free-for.dev/)                                                 |   ✅      |     🔄        |    Beginner     |   ✅    |
 | [Dev to](https://dev.to/)                                                             |   ✅      |     ❌        |  Intermediate   |    🔄   |
+| [LazyWeb](https://app.lazyweb.rocks/)                                                 |   ✅      |     🔄        |  Intermediate   |   ✅    |
 
 
 - ✅ = `Integrated`
